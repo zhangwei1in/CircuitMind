@@ -21,3 +21,6 @@ Thumbs.db
 # Environment
 .env
 .env.local
+
+# Generated output
+design_output.json
